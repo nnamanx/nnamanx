@@ -1,4 +1,4 @@
-### Hola, I'm Laman! 👋
+### Hallo, I'm Laman! 👋
 
 
 - 🔭 I’m currently working on customized websites.
