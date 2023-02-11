@@ -1,7 +1,7 @@
 ### Hallo, I'm Laman! 👋
 
 
-- 🔭 I’m currently working on APIs.
+- 🔭 I’m currently working on Java Projects.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on GitHub.
 - 💬 Ask me about any tech related stuff.
