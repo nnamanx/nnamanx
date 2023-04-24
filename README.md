@@ -27,10 +27,12 @@ width="47%"/>
 [<img height="22" width="22" align="left" src="https://www.svgrepo.com/show/26491/internet.svg" />][Website]
 
 
+
 [Linkedin]: https://www.linkedin.com/in/laman-khudadatzada/
 [Instagram]: https://www.instagram.com/nnamanx
 [Website]: 
 <br />
+ <br /> 
 
 ## Tech I Use:
 <img height="35" width="auto" align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
