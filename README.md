@@ -4,7 +4,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/karamlyy/count.svg"/>
 </p>
-<h2 align="center"> Hi There, I'm Karam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
+<h2 align="center"> Hi There, I'm Laman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
 <h2/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=karamlyy&theme=blue-green&show_icons=true" align="left" width="48%"/>
@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamlyy&layout=compact" align="left" 
 width="47%"/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karamlyy&" alt="Karam Afandi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karamlyy&" alt="Laman Khudadatzada" /></p>
 
 
 
