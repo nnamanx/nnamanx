@@ -1,5 +1,7 @@
 <a href=#><img src="contributions.svg"></a>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnamanx&" alt="Laman Khudadatzada" /></p>
+
 Fun Fact:  1 + 1 = 10
 
 [Linkedin]: https://www.linkedin.com/in/laman-khudadatzada/
@@ -20,7 +22,7 @@ Fun Fact:  1 + 1 = 10
 
 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nnamanx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=nnamanx&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nnamanx&theme=midnight-purple&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nnamanx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -47,7 +49,7 @@ Fun Fact:  1 + 1 = 10
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnamanx&layout=compact" align="left" 
 width="47%"/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnamanx&" alt="Laman Khudadatzada" /></p>
+
 
 
  -->
