@@ -1,7 +1,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center">Fun Fact:  1 + 1 = 10</p>
-<h1 align="center">Hey, I'm Laman"</h1>
+<h1 align="center">Hey, I'm Laman</h1>
 
 [Linkedin]: https://www.linkedin.com/in/laman-khudadatzada/
 [Instagram]: https://www.instagram.com/nnamanx
@@ -15,6 +15,11 @@
 
 ---
 <p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=nnamanx&icon=0&color=4)](https://visitcount.itsvg.in)"/></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nnamanx&theme=blue-green&show_icons=true" align="left" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnamanx&layout=compact" align="left" 
+width="47%"/>
 
 
 📊 GitHub Stats:
@@ -45,8 +50,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnamanx&layout=compact" align="left" 
 width="47%"/>
-
-
 
 
  -->
