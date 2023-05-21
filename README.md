@@ -14,12 +14,6 @@
 
 
 ---
-<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=nnamanx&icon=0&color=4)](https://visitcount.itsvg.in)"/></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nnamanx&theme=blue-green&show_icons=true" align="left" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnamanx&layout=compact" align="left" 
-width="47%"/>
 
 
 📊 GitHub Stats:
