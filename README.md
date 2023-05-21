@@ -16,7 +16,7 @@
 ---
 
 
-📊 GitHub Stats:
+### 📊 GitHub Stats:
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnamanx&theme=midnight-purple&hide_border=false"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnamanx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)"/></p>
