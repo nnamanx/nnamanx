@@ -21,8 +21,8 @@ Fun Fact:  1 + 1 = 10
 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nnamanx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnamanx&theme=midnight-purple&hide_border=false"/></p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nnamanx&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nnamanx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnamanx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)"/></p>
 
 
 # 💻 Tech Stack:
