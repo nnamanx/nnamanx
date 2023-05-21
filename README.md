@@ -1,25 +1,23 @@
 <a href=#><img src="contributions.svg"></a>
 
-Fun Fact:  1 + 1 = 10
+<p align="center">Fun Fact:  1 + 1 = 10</p>
+<h1 align="center">Hey, I'm Laman"</h1>
 
 [Linkedin]: https://www.linkedin.com/in/laman-khudadatzada/
 [Instagram]: https://www.instagram.com/nnamanx
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nnamanx&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=nnamanx&theme=radical&no-frame=true&no-bg=true&margin-w=4)"/></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nnamanx&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-<!-- 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/> -->
+<p align="center"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=nnamanx&limit=5&theme=dracula&combine_all_yearly_contributions=true)"/></p>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nnamanx&icon=0&color=4)](https://visitcount.itsvg.in)
+<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=nnamanx&icon=0&color=4)](https://visitcount.itsvg.in)"/></p>
 
 
 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=nnamanx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnamanx&theme=midnight-purple&hide_border=false"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnamanx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)"/></p>
