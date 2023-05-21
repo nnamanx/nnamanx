@@ -2,7 +2,8 @@
 
 Fun Fact:  1 + 1 = 10
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nnamanx) 
+[Linkedin]: https://www.linkedin.com/in/laman-khudadatzada/
+[Instagram]: https://www.instagram.com/nnamanx
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nnamanx&theme=radical&no-frame=true&no-bg=true&margin-w=4)
