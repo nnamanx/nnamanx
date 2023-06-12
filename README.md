@@ -9,10 +9,7 @@
 ## 🏆 GitHub Trophies
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=nnamanx&theme=radical&no-frame=true&no-bg=true&margin-w=4)"/></p>
 
-<!-- ### 🔝 Top Contributed Repo
-<p align="center"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=nnamanx&limit=5&theme=dracula&combine_all_yearly_contributions=true)"/></p>
 
- -->
 ---
 
 
@@ -51,11 +48,6 @@ width="47%"/>
   
 ### Connect with me:
 
-[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
-
-[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" />][Instagram]
-
-[<img height="22" width="22" align="left" src="https://www.svgrepo.com/show/26491/internet.svg" />][Website]
 
 
 
