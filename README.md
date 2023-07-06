@@ -36,25 +36,4 @@
 width="47%"/>
 
 
- -->
-<!-- <br/>
-  
-### Connect with me:
 
-
-
-
-[Linkedin]: https://www.linkedin.com/in/laman-khudadatzada/
-[Instagram]: https://www.instagram.com/nnamanx
-[Website]: 
-<br />
- <br /> 
-
-## Tech I Use:
-<img height="35" width="auto" align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-
-
-<img height="35" width="auto" align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-<img height="35" width="auto" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqsV73c3y8GhFDKDdQZbzeh8nkoNYrAMvlXqi-oQR&s"> -->
-<!-- <img height="35" width="auto" align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img height="35" width="auto" align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> -->
