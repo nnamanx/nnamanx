@@ -23,17 +23,5 @@
 
 
 
-<!-- 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nnamanx/count.svg"/>
-</p>
-<h2 align="center"> Hi There, I'm Laman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
-<h2/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nnamanx&theme=blue-green&show_icons=true" align="left" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnamanx&layout=compact" align="left" 
-width="47%"/>
-
 
 
