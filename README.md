@@ -6,9 +6,7 @@
 [Linkedin]: https://www.linkedin.com/in/laman-khudadatzada/
 [Instagram]: https://www.instagram.com/nnamanx
 
-
 ---
-
 
 ### 📊 GitHub Stats:
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnamanx&theme=midnight-purple&hide_border=false"/></p>
