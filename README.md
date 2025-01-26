@@ -6,7 +6,6 @@
 
 <div style="text-align:center;"> 
 
----
 
 Welcome to my digital corner on GitHub! I'm a passionate **Data Scientist** and **Backend Developer** who loves diving into data, building robust systems, and solving real-world problems. When I'm not coding, you might find me working on my device, exploring new tech frontiers, or brainstorming my next AI project.
 
