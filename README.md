@@ -6,7 +6,9 @@
 
 <div style="text-align:center;"> 
 
-# 💻 Tech Stack:
+Welcome to my digital corner on GitHub! I'm a passionate **Data Scientist** and **Backend Developer** who loves diving into data, building robust systems, and solving real-world problems. When I'm not coding, you might find me working on my device, exploring new tech frontiers, or brainstorming my next AI project.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nnamanx) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nnamanx14) 
@@ -22,3 +24,18 @@
 [![](https://visitcount.itsvg.in/api?id=nnamanx&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- https://gprm.itsvg.in-->
+
+
+<!--
+## 🌟 Goals for 2025
+- 💼 **Land a dream job in AI/ML research**
+- 🎓 **Apply for and ace my Master's program**
+- 🏃‍♀️ **Break my personal marathon record**
+- 📈 **Contribute to open-source projects**
+
+-->
+---
+
+_"I don’t see problems; I see unoptimized solutions."_
+
+
