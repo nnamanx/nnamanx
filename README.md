@@ -24,7 +24,6 @@ Welcome to my digital corner on GitHub! I'm a passionate **Data Scientist** and 
 ---
 [![](https://visitcount.itsvg.in/api?id=nnamanx&icon=0&color=4)](https://visitcount.itsvg.in)
 
----
 _"I don’t see problems; I see unoptimized solutions."_
 
 <!-- https://gprm.itsvg.in-->
