@@ -1,7 +1,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 <!-- <p align="center">Fun Fact:  1 + 1 = 10</p> -->
-<h3 align="center">✨ Fun Fact: 1 + 1 = 10 ✨</h3>
+<h3 align="center"> Fun Fact: 1 + 1 = 10 </h3>
 
 <h1 align="center">Heyy, I'm Laman</h1>
 
