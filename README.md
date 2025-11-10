@@ -17,9 +17,10 @@ Welcome to my digital corner on GitHub! I'm a passionate **Data Scientist** who 
 
 --->
 
-# 📊 GitHub Stats:
+<!--  # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nnamanx&theme=shadow_red&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nnamanx&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 [![](https://visitcount.itsvg.in/api?id=nnamanx&icon=0&color=4)](https://visitcount.itsvg.in)
 
