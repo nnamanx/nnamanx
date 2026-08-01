@@ -4,12 +4,12 @@
 <h3 align="center"> Fun Fact: 1 + 1 = 10 </h3>
 
 <h1 align="center">Heyy, I'm Laman</h1>
+<h2 align="center">Welcome to my digital corner on GitHub!
+</h2>
+
 
 
 <div style="text-align:center;"> 
-
-
-Welcome to my digital corner on GitHub!
 
 <!---
 # 💻 Tech Stack:
