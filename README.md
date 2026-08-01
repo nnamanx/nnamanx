@@ -1,13 +1,12 @@
 <a href=#><img src="contributions.svg"></a>
 
 <!-- <p align="center">Fun Fact:  1 + 1 = 10</p> -->
-<h3 align="center"> Fun Fact: 1 + 1 = 10 </h3>
-
 <h2 align="center">Heyy, I'm Laman 
  
 Welcome to my digital corner on GitHub!
 
 </h2>
+<h3 align="center"> Fun Fact: 1 + 1 = 10 </h3>
 
 
 <div style="text-align:center;"> 
