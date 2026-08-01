@@ -3,10 +3,11 @@
 <!-- <p align="center">Fun Fact:  1 + 1 = 10</p> -->
 <h3 align="center"> Fun Fact: 1 + 1 = 10 </h3>
 
-<h1 align="center">Heyy, I'm Laman</h1>
-<h2 align="center">Welcome to my digital corner on GitHub!
-</h2>
+<h1 align="center">Heyy, I'm Laman 
+ 
+Welcome to my digital corner on GitHub!
 
+</h1>
 
 
 <div style="text-align:center;"> 
