@@ -5,7 +5,6 @@
  
 Welcome to my digital corner on GitHub!
 
-</h2>
 <h3 align="center"> Fun Fact: 1 + 1 = 10 </h3>
 
 
