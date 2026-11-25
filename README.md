@@ -4,8 +4,9 @@
 <h2 align="center">Heyy, I'm Laman 
  
 Welcome to my digital corner on GitHub!
-
-<h3 align="center"> Fun Fact: 1 + 1 = 10 </h3>
+<br>
+Fun Fact: 1 + 1 = 10 
+<!-- <h3 align="center"> Fun Fact: 1 + 1 = 10 </h3> -->
 
 
 <div style="text-align:center;"> 
