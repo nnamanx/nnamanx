@@ -6,7 +6,7 @@
 Welcome to my digital corner on GitHub!
 <br>
 Fun Fact: 1 + 1 = 10 
-
+</h2>
 
 
 <div style="text-align:center;"> 
