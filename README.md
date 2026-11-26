@@ -1,4 +1,4 @@
-<h3 align="center">heyy, I'm Laman
+<h3 align="center">hey, I'm Laman
 
 welcome to my digital corner on GitHub!
 <br>
