@@ -1,17 +1,13 @@
-<h2 align="center">Heyy, I'm Laman 
- 
+<h3 align="center">Heyy, I'm Laman 
 Welcome to my digital corner on GitHub!
 <br>
-Fun Fact: 1 + 1 = 10 
-</h2>
-
+Fun Fact: 1 + 1 = 10 </h3>
 
 <a href=#><img src="contributions.svg"></a>
 
-
 <div style="text-align:center;"> 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nnamanx&theme=shadow_red&hide_border=true)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=nnamanx&icon=0&color=4)](https://visitcount.itsvg.in)
