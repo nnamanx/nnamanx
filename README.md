@@ -1,8 +1,8 @@
-<h3 align="center">Heyy, I'm Laman
+<h3 align="center">heyy, I'm Laman
 
-Welcome to my digital corner on GitHub!
+welcome to my digital corner on GitHub!
 <br>
-Fun Fact: 1 + 1 = 10 </h3>
+fun fact : 1 + 1 = 10 </h3>
 
 <a href=#><img src="contributions.svg"></a>
 
